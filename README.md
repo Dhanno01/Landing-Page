@@ -2,7 +2,7 @@
 
 ## OverView
 
-This project is a responsive landing page for Uifry, a financial management tool. The page showcases features, advantages, and user testimonials, providing visitors with information about the product.
+This project is a  landing page for Uifry, a financial management tool. The page showcases features, advantages, and user testimonials, providing visitors with information about the product.
 
 ## Technologies Used
 
